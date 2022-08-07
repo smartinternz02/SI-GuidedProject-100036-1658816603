@@ -15,6 +15,8 @@ The following steps has been followed during project: “Effective Heart Disease
 8. Creation of a WEB application Using Node-RED to take user input and showcase Prediction on UI.
 ![image](https://user-images.githubusercontent.com/87877241/183178368-2a437886-2391-435c-b5eb-76efa3df9a30.png)
  
-# You can check the final UI for this project here: https://node-red-dvqbi-2022-07-30.eu-gb.mybluemix.net/ui/#!/0?socketid=djAix0DKYQNQ-gB8AABJ.
+## You can check the final UI for this project here: 
+https://node-red-dvqbi-2022-07-30.eu-gb.mybluemix.net/ui/#!/0?socketid=djAix0DKYQNQ-gB8AABJ.
 
-# Link for Certificates and Badges: https://drive.google.com/drive/folders/1a2t3j_0odo6U9C7O0cllLYmprDgsmTn2?usp=sharing
+## Link for Certificates and Badges: 
+https://drive.google.com/drive/folders/1a2t3j_0odo6U9C7O0cllLYmprDgsmTn2?usp=sharing
